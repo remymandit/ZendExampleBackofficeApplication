@@ -2,3 +2,5 @@
 /data/cache/
 /.settings
 /config/autoload/local.php.dist
+.buildpath
+.project
